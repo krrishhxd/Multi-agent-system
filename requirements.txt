@@ -1,0 +1,41 @@
+
+# ==========================================
+# MULTI-AGENT RESEARCH SYSTEM
+# ==========================================
+
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+
+# Agent orchestration
+langgraph
+
+# LLM Providers
+langchain-openai
+langchain-google-genai
+langchain-groq
+
+# Web Search Tool - Tavily
+langchain-tavily
+tavily-python
+
+# Web Scraping - BeautifulSoup
+beautifulsoup4
+requests
+lxml
+
+# Environment Variables
+python-dotenv
+
+# Data Validation and Structured Outputs
+pydantic
+
+# HTTP and Async Support
+httpx
+aiohttp
+
+# Utilities
+tiktoken
+rich
+streamlit
